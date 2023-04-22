@@ -1,0 +1,29 @@
+{
+  "name": "solidity-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petreleon/solidity-experiments.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petreleon/solidity-experiments/issues"
+  },
+  "homepage": "https://github.com/petreleon/solidity-experiments#readme",
+  "dependencies": {
+    "@ethersproject/bytes": "^5.7.0",
+    "dotenv": "^16.0.3",
+    "ethereumjs-util": "^7.1.5",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.3.0",
+    "web3": "^1.9.0",
+    "web3-eth-personal": "^1.9.0"
+  }
+}
